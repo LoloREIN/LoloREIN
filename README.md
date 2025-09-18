@@ -155,14 +155,17 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/loloREIN/loloREIN/output/snake.svg" alt="Snake animation" />
+<h1 align="center">🐍 Contributions</h1>
+
+![snake gif](https://github.com/loloREIN/loloREIN/blob/output/github-contribution-grid-snake-dark.svg)
+
+<h1 align="center">🎵 I'm Listening to: </h1>
 
 ###
 
 <div align="center">
   <a href="https://open.spotify.com/user/loloreinoso">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=loloreinoso&count=3&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=loloreinoso&count=4&unique=true"" alt="Spotify recently played"  />
   </a>
 </div>
-
 ###
