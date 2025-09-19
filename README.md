@@ -163,12 +163,6 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/xlhdf5spvmwchk3h0pq3yimwm?si=ce743dc4e1e14d66">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Loloreinoso&count=4" alt="Spotify recently played"  />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://open.spotify.com/user/quiqueuli">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=quiqueuli&count=10" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=xlhdf5spvmwchk3h0pq3yimwm&count=4" alt="Spotify recently played"  />
   </a>
 </div>
