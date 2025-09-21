@@ -1,5 +1,7 @@
 <h1 align="center">Buongiorno 👋  I'm Lolo</h1>
 
+<p>Programmer</p>
+
 ###
 
 <div align="center">
